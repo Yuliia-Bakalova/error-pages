@@ -1,1 +1,1 @@
-# error-peges
+# error-pages
